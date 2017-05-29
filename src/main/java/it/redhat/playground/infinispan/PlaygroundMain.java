@@ -20,7 +20,6 @@ package it.redhat.playground.infinispan;
 import it.redhat.playground.infinispan.console.commands.*;
 import it.redhat.playground.infinispan.configuration.PlaygroundConfiguration;
 import it.redhat.playground.infinispan.console.TextUI;
-import org.infinispan.tutorial.simple.console.commands.*;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
